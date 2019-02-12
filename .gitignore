@@ -1,0 +1,9 @@
+# Latex Stuff #
+###################
+*.aux
+*.fls
+*.out
+*.tex
+*.gz
+*.fbd_latexmk
+*.log
