@@ -5,5 +5,5 @@
 *.out
 *.tex
 *.gz
-*.fbd_latexmk
 *.log
+*.fdb_latexmk
